@@ -1,0 +1,10 @@
+{
+    "model": "BART",
+    "training_time_sec": 2870.6342701911926,
+    "inference_time_sec": 104.62567925453186,
+    "total_trainable_params": 140013315,
+    "accuracy": 0.6677341873498799,
+    "precision": 0.7004101880944531,
+    "recall": 0.6677341873498799,
+    "f1_score": 0.6736836407917348
+}

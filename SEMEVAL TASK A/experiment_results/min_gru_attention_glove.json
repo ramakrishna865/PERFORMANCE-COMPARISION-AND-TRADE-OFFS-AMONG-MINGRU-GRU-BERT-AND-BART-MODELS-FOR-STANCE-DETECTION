@@ -1,0 +1,29 @@
+{
+    "model": "Mini-GRU + Topic-Aware Attention (GloVe)",
+    "training_time_sec": 66.04436612129211,
+    "inference_time_sec": 1.4888882637023926,
+    "total_trainable_params": 1863952,
+    "metrics": {
+        "accuracy": 0.5300240192153723,
+        "precision": 0.570668853566091,
+        "recall": 0.5300240192153723,
+        "f1_score": 0.5430375059885351
+    },
+    "confusion_matrix": [
+        [
+            413,
+            158,
+            144
+        ],
+        [
+            93,
+            135,
+            76
+        ],
+        [
+            69,
+            47,
+            114
+        ]
+    ]
+}

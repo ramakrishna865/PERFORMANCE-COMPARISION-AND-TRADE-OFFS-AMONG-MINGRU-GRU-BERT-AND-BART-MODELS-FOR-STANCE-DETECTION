@@ -1,0 +1,29 @@
+{
+    "model": "GRU + Attention ",
+    "training_time_sec": 39.3123722076416,
+    "inference_time_sec": 7.791168689727783,
+    "total_trainable_params": 1916340,
+    "metrics": {
+        "accuracy": 0.6068855084067254,
+        "precision": 0.6141218297882697,
+        "recall": 0.6068855084067254,
+        "f1_score": 0.6100927412817687
+    },
+    "confusion_matrix": [
+        [
+            499,
+            130,
+            86
+        ],
+        [
+            102,
+            152,
+            50
+        ],
+        [
+            81,
+            42,
+            107
+        ]
+    ]
+}

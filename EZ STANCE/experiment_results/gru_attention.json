@@ -1,0 +1,29 @@
+{
+    "model": "GRU + Attention (Trainable Embeddings)",
+    "training_time_sec": 231.8038980960846,
+    "inference_time_sec": 5.479326963424683,
+    "total_trainable_params": 5505964,
+    "metrics": {
+        "accuracy": 0.3332035053554041,
+        "precision": 0.1110245759811288,
+        "recall": 0.3332035053554041,
+        "f1_score": 0.1665530814090261
+    },
+    "confusion_matrix": [
+        [
+            0,
+            0,
+            1712
+        ],
+        [
+            0,
+            0,
+            1712
+        ],
+        [
+            0,
+            0,
+            1711
+        ]
+    ]
+}

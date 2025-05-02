@@ -1,0 +1,11 @@
+{
+    "model": "BART (Covid)",
+    "training_time_sec": 8457.818369150162,
+    "inference_time_sec": 100.27504205703735,
+    "total_trainable_params": 140013315,
+    "accuracy": 0.7,
+    "precision": 0.7131120773090993,
+    "recall": 0.7,
+    "f1_score": 0.69574017100406
+  }
+  

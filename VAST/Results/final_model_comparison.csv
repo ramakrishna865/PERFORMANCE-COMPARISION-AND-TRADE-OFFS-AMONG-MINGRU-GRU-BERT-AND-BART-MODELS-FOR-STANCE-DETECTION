@@ -1,0 +1,8 @@
+Metric,Model 1: Mini-GRU + GloVe,Model 2: GRU + Attention,Model 3: BERT
+Trainable Params,702980,3298564,110000000
+Training Time (s),1689.33,1627.56,3889.92
+Inference Time (s),11.61,10.95,68.05
+Accuracy,0.4884,0.3723,0.6983
+Precision,0.5268,0.3661,0.7064
+Recall,0.4884,0.3723,0.6983
+F1-Score,0.4818,0.3517,0.7003

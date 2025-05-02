@@ -1,0 +1,14 @@
+{
+    "eval_loss": 0.6415771245956421,
+    "eval_accuracy": 0.7425,
+    "eval_precision": 0.7403543725311462,
+    "eval_recall": 0.7425,
+    "eval_f1": 0.7407235666600444,
+    "eval_runtime": 118.7857,
+    "eval_samples_per_second": 6.735,
+    "eval_steps_per_second": 0.421,
+    "epoch": 4.0,
+    "training_time_sec": 12097.165052890778,
+    "inference_time_sec": 121.42585587501526,
+    "total_trainable_params": 109484547
+}
